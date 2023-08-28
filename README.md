@@ -25,9 +25,7 @@
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h3 align="center">🏆:Trophies:</h3>
-<hr/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhosalerushi2001" alt="bhosalerushi2001" /></a> </p>
+
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">🔍:Connect with me:</h3>
@@ -35,7 +33,7 @@
 <p align="center">
 <a href="www.linkedin.com/in/rushikesh-bhosale-067639267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rushikesh-bhosale-067639267" height="30" width="40" /></a>
   
-<a href="https://discord.gg/#7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saurabh#7095" height="30" width="40" /></a>
+<a href="https://discord.gg/#7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bhosalerushi2001" height="30" width="40" /></a>
 </p>
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -45,11 +43,6 @@
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2 align='center'>📊 My Github Stats</h2>
-
-
- ![saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=s17200&show_icons=true&locale=en&theme=tokyonight) | ![saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s17200&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
-| :---: | :---: |
 
 <hr/>
 
