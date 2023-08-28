@@ -1,5 +1,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42rpvIWXEXRMASQirm1qQJ-lWLNqJCRJgBg&usqp=CAU" alt="label" width="1000px" height="200" />
-<h1 align="center">Hi 👋, I'm Saurabh Sonvane</h1>
+<h1 align="center">Hi 👋, I'm Rushikesh Bhosale</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <div display="flex" width="100%">
@@ -10,19 +10,18 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s17200&label=Profile%20views&color=0e75b6&style=flat" alt="s17200" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhosalerushi2001&label=Profile%20views&color=0e75b6&style=flat" alt="bhosalerushi2001" /> </p>
 
 - 🔭 I’m currently working on [Placeprep.com](https://place-prep-com.vercel.app/HomePage/index.html)
 
 - 🌱 I’m currently learning **Full Stack Web**
 
-- 💬 Ask me about **java,DSA,javascript,css,react**
+- 💬 Ask me about **java,DSA,Typescript,HTML,Angular,hibernate,MySql**
 
-- 📫 How to reach me **sonvanesaurabh7@gmail.com**
+- 📫 How to reach me **bhosalerushi2001@gmail.com**
   
-- 📄 Check [Resume](https://onedrive.live.com/?authkey=%21AFI6oDqVOwNDUv0&cid=15CB20DDD092BC4A&id=15CB20DDD092BC4A%211005&parId=root&o=OneUp)
-
-- 📄 Know more about me and my work [Portfolio](https://s17200-portfolio.vercel.app)
+- 📄 Check [Resume]
+- 📄 Know more about me and my work [Portfolio](https://bhosalerushi2001-portfolio.vercel.app)
     
 </div>
 
@@ -30,7 +29,7 @@
 
 <h3 align="center">🏆:Trophies:</h3>
 <hr/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s17200" alt="s17200" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhosalerushi2001" alt="bhosalerushi2001" /></a> </p>
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">🔍:Connect with me:</h3>
