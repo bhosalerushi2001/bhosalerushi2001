@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42rpvIWXEXRMASQirm1qQJ-lWLNqJCRJgBg&usqp=CAU" alt="label" width="1210px" height="200" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42rpvIWXEXRMASQirm1qQJ-lWLNqJCRJgBg&usqp=CAU" alt="label" width="1000px" height="200" />
 <h1 align="center">Hi 👋, I'm Saurabh Sonvane</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
