@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhosalerushi2001&label=Profile%20views&color=0e75b6&style=flat" alt="bhosalerushi2001" /> </p>
 
-- 🌱 I’m currently learning **full stack**
+- 🌱 I’m currently learning **full stack **
 
-- 💬 Ask me about **Java,Springboot,mysql,angular,c++**
+- 💬 Ask me about **Java,Springboot,mysql,angular,C#, Asp .net Core Api**
 
 - 📫 How to reach me **bhosalerushi2001@gmail.com**
 
