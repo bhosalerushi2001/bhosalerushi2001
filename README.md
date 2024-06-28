@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack**
 
-- 💬 Ask me about **Java,Springboot,mysql,angular,C#, Asp .net Core Api**
+- 💬 Ask me about **Java, Springboot, mysql, angular, C#, Asp .net Core Web Api**
 
 - 📫 How to reach me **bhosalerushi2001@gmail.com**
 
